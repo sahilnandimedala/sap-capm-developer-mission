@@ -1,0 +1,1 @@
+cf update-service cpapp -c '{"data":{"serviceStopped":false}}'
